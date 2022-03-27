@@ -19,5 +19,5 @@ https://dibyaranjan450.github.io/Art-of-Tshushima/
 ## Contributor
 
 ```
-Creator of Art of Tshushima @Dibyaranjan450
+Creator of 'Art of Tshushima' @Dibyaranjan450
 ```
